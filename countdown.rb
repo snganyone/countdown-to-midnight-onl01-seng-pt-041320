@@ -1,8 +1,8 @@
 #write your code here
 def countdown(number)
-  while 
+  while
     puts "${number} SECOND(S)!"
-    
+
   end
 
 end
